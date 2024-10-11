@@ -2,7 +2,7 @@
 
 ## Minha Opinião
 
-A maneira de implementação que mais entendi sobre o design pattern Singleton foi a clássica, pois envolve mais detalhes no código que consegui compreender, como o desenvolvimento do get e o seu return. Este padrão substitui variáveis globais em alguns casos, como em arquivos de configurações que serão usados em todo o projeto, e também garante que uma classe seja instanciada apenas uma vez. Estes foram os principais pontos que compreendi sobre o assunto. 
+A maneira de implementação que mais entendi sobre o design pattern Singleton foi a clássica, pois envolve mais detalhes no código que consegui compreender, como o desenvolvimento do get e o seu return. Este padrão substitui variáveis globais em alguns casos, como em arquivos de configurações que serão usados em todo o projeto, e também garante que uma classe seja instanciada apenas uma vez. 
 
 ## Intenção
 
